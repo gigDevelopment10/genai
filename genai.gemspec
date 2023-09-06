@@ -6,7 +6,7 @@ Gem::Specification.new do |spec|
   spec.name          = "genai"
   spec.version       = Genai::VERSION
   spec.authors       = ["@Zoya"]
-  spec.email         = ["84071291+gigDevelopment10@users.noreply.github.com"]
+  spec.email         = ["zoyajmd@gmail.com"]
 
   spec.summary       = "TODO: Write a short summary, because RubyGems requires one."
   spec.description   = "TODO: Write a longer description or delete this line."
